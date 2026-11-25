@@ -2,7 +2,7 @@
 
 Back-end da cantina do campus: controla produtos, pedidos e relatórios de vendas, com regras de negócio validadas na API e no banco.
 
-**Integrantes da dupla:**
+**Integrantes:**
 - Arthur Marcante
 
 
